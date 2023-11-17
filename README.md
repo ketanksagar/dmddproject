@@ -9,9 +9,13 @@ by the organization’s employees. In this project, we designed and implemented 
 
 ## Technologies-
 👉 MS SQL Server<br>
+👉 Relational Database<br>
+👉 Data Insertion<br>
 👉 Lucid Chart<br>
 👉 Power BI<br>
 👉 Microsoft Office Suit<br>
+
+
 
 
 
